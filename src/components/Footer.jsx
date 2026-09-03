@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="text-xl font-bold mb-4">أستاذ [اسمك]</h3>
+            <h3 className="text-xl font-bold mb-4">أستاذ احمد</h3>
             <p className="text-gray-400 leading-relaxed">مدرس رياضيات خصوصي. 8 سنين في مساعدة الطلاب يتخطوا حاجز الخوف من الرياضيات.</p>
           </div>
           <div>
@@ -37,7 +37,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="border-t border-white/10 pt-8 text-center text-gray-500 text-sm">
-          © 2025 [اسمك]. جميع الحقوق محفوظة.
+          © 2026. جميع الحقوق محفوظة.
         </div>
       </div>
     </footer>
